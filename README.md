@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/vanessa.pondiandemedeiros/)](https://www.facebook.com/vanessa.pondiandemedeiros/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vanessa_pm_85/)](https://www.instagram.com/vanessa_pm_85/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/vanessa-pondian-de-medeiros/)](https://www.linkedin.com/in/vanessa-pondian-de-medeiros/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/vanessa.pondiandemedeiros/)](https://www.facebook.com/vanessa.pondiandemedeiros/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vanessa_pm_85/)](https://www.instagram.com/vanessa_pm_85/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/vanessa-pondian-de-medeiros/)](https://www.linkedin.com/in/vanessa-pondian-de-medeiros/)
 
 Eu sou a Vanessa, moro em Campinas, São Paulo e sempre gostei muito de tecnologia. 
 
